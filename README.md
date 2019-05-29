@@ -11,9 +11,9 @@ This repository includes the full code used for teh project implementation:
    Subhash Chandran KS, Chandra Sekhar Seelamantula,  and Supratim Ray. Duration analysis using matching pursuit algorithm   
    reveals longer bouts of gamma rhythm. Journal of neurophysiology, 119(3):808–821, 2017.
    https://github.com/supratimray/GammaLengthProjectCodes
-3. Fieldtrip toolbox for Matlab. Latest versions available at http://www.fieldtriptoolbox.org/.
-   Note: the fieldtrip.zip folder must be extracted to yield the folder "matlab -> fieldtrip".
-4. Full-sized images for plots generated using the code. 
+3. Full-sized images for plots generated using the code.
+
+The Fieldtrip toolbox for Matlab must be added to the folder "matlab". The latest version may be downloaded at http://www.fieldtriptoolbox.org/. The downloaded zip folder should be extracted and renamed to yield the folder "matlab -> fieldtrip".
    
    
    
