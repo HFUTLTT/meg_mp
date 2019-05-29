@@ -12,6 +12,7 @@ This repository includes the full code used for teh project implementation:
    reveals longer bouts of gamma rhythm. Journal of neurophysiology, 119(3):808–821, 2017.
    https://github.com/supratimray/GammaLengthProjectCodes
 3. Fieldtrip toolbox for Matlab. Latest versions available at http://www.fieldtriptoolbox.org/.
+4. Full-sized images for plots generated using the code. 
    
    
    
